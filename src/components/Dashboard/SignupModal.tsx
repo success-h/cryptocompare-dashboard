@@ -9,8 +9,8 @@ const customStyles = {
     bottom: "auto",
     marginRight: "-50%",
     transform: "translate(-50%, -50%)",
-    zIndex: 100
-  }
+    zIndex: 100,
+  },
 };
 
 export default function SignupModal({ modalIsOpen, closeModal }: any) {
@@ -51,7 +51,7 @@ export default function SignupModal({ modalIsOpen, closeModal }: any) {
             className="button btn-secondary"
             style={{
               margin: "2em auto",
-              display: "block"
+              display: "block",
             }}
           >
             Sign in
