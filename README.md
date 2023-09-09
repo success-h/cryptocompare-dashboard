@@ -1,3 +1,3 @@
 # DEMO
 
-![demo](https://github.com/DNature/bitcoin-tracker/blob/master/public/demo.gif)
+![demo](https://github.com/success-h/cryptocompare-dashboard/blob/master/public/demo.gif)
